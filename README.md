@@ -1,6 +1,6 @@
 Pytorch Implementation of REAL-NVP . Based on the paper:
 
-  > [Density estimation using Real NVP](https://arxiv.org/abs/1410.8516)\
+  > [Density estimation using Real NVP]https://arxiv.org/abs/1605.08803)\
   > Laurent Dinh, David Krueger, Yoshua Bengio\
   > arXiv:1605.08803
 
